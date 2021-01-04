@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es6",
+    "target": "es5",
     "lib": [
       "DOM",
       "DOM.Iterable",
@@ -20,5 +20,7 @@
     "resolveJsonModule": true,
     "noEmit": true,
   },
- "include": ["src"]
+  "include": [
+    "src"
+    ]
   }
