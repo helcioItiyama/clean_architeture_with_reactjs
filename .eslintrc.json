@@ -6,7 +6,7 @@
   },
   "extends": [
     "eslint-config-airbnb-typescript",
-    "plugin:react/recommend"
+    "plugin:react/recommended"
   ],
   "plugins": ["react"],
   "parserOptions": {
