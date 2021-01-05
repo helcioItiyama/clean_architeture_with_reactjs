@@ -1,4 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
 import { AuthenticationParams } from '@/domain/usecases/authentication';
 import faker from 'faker';
 import { AccountModel } from '../models';

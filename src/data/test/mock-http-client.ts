@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 import {
   HttpPostClient, HttpPostParams, HttpResponse, HttpStatusCode,
 } from '@/data/protocols/http';
