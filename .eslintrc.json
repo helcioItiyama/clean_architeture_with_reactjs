@@ -16,6 +16,7 @@
     "@typescript-eslint/consistent-type-definitions": "off",
     "@typescript-eslint/strict-boolean-expressions": "off",
     "no-param-reassign": "off",
+    "react/destructuring-assignment": "off",
     "react/jsx-props-no-spreading": "off",
     "react/jsx-uses-react": "error",
     "react/jsx-uses-vars": "error",
