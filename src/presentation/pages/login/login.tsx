@@ -1,6 +1,7 @@
 import React from 'react';
 import Spinner from '@/presentation/components/spinner/spinner';
 import Header from '@/presentation/components/login-header/login-header';
+import Footer from '@/presentation/components/footer/footer';
 import Styles from './login-styles.scss';
 
 const Login: React.FC = () => (
@@ -29,7 +30,7 @@ const Login: React.FC = () => (
       </div>
     </form>
 
-    <footer className={Styles.footer} />
+    <Footer />
   </div>
 );
 
