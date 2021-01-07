@@ -18,6 +18,7 @@
     "@typescript-eslint/no-unused-vars": "off",
     "no-plusplus": "off",
     "no-param-reassign": "off",
+    "class-methods-use-this": "off",
     "react/destructuring-assignment": "off",
     "react/jsx-props-no-spreading": "off",
     "react/jsx-uses-react": "error",

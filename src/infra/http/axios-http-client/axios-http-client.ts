@@ -1,4 +1,3 @@
-/* eslint-disable class-methods-use-this */
 import { HttpPostClient, HttpPostParams, HttpResponse } from '@/data/protocols/http';
 import axios from 'axios';
 
