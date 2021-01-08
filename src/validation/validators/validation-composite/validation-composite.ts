@@ -1,7 +1,7 @@
 /* eslint-disable consistent-return */
 /* eslint-disable no-restricted-syntax */
 import { Validation } from '@/presentation/protocols/validation';
-import { FieldValidation } from '../protocol/fields-validation';
+import { FieldValidation } from '@/validation/protocol/fields-validation';
 
 export class ValidationComposite implements Validation {
   constructor(private readonly validators: FieldValidation[]) {}
